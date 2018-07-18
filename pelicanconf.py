@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'cyberambassadors'
-SITENAME = "Cyber Ambassadors"
-SITEURL = ''
+SITENAME = "Cyberambassadors"
+SITEURL = '.'
 
 PATH = 'content'
 
@@ -39,7 +39,7 @@ DISPLAY_HOME   = True
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+RELATIVE_URLS = True 
 
 # Comment following line if you want the default theme
 THEME = 'themes/tuxlite_cmse'
@@ -52,4 +52,4 @@ DISPLAY_CATEGORIES_ON_MENU = True
 #PAGE_URL = 'about2.html'
 
 # Provides menu items, which come before pages / categories
-MENUITEMS = [('News','https://nolanfeeny.github.io/cyberambassadors/category/news')]
+# MENUITEMS = [('News',SITEURL+'/category/news')]

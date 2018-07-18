@@ -1,6 +1,5 @@
 Title: Contact
 Date: 2018-05-18
-Category: Contact
 
 ![cyberambassadors]({filename}../images/cyber.png)
 

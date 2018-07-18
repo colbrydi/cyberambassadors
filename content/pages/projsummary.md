@@ -1,10 +1,5 @@
 Title: Summary
 Date: 2018-05-18
-Tags: About, MSU, CMSE
-Category: Summary
-
-![Sparty]({filename}/images/sparty.gif){width=240}
-
 
 Cyberinfrastructure (CI) is transforming research in science and engineering by supporting new methods
 for gathering, analyzing, modeling and simulating data. Many technical training programs exist to prepare
