@@ -13,12 +13,15 @@ the gap between CI Professionals and the science and engineering domain experts 
 This proposal will provide technically-proficient CI Professionals with training in communications,
 teamwork, and leadership, with the goal of developing "CyberAmbassadors" who are prepared to lead
 multidisciplinary, computationally-intensive research at their home institutions. The proposed project has
-the following objectives: **(1) Develop Curriculum** that focuses on professional skills (communications,
+the following objectives:
+
+1. ** Develop Curriculum** that focuses on professional skills (communications,
 teamwork, leadership) within the context of large scale, multi-disciplinary computational research.
-**(2) Pilot, Evaluate and Revise** the curriculum. Pilot trainings will be held at Michigan State University
+2. **Pilot, Evaluate and Revise** the curriculum. Pilot trainings will be held at Michigan State University
 (MSU), at appropriate CI conferences, and at other institutions and laboratories. During the pilot process,
 approximately 75 individuals will be trained as CyberAmbassadors and the curriculum will be evaluated
-and refined based on these experiences. **(3) "Train the Trainers"** by collaborating with external partners
+and refined based on these experiences.
+2. **"Train the Trainers"** by collaborating with external partners
 (XSEDE, Blue Waters, Software/Data Carpentry, Tau Beta Pi) to prepare a cohort of at least 20
 facilitators who can offer the CyberAmbassadors training through regional or national events. 100-150
 additional participants will complete the CyberAmbassadors program during the "train the trainers"

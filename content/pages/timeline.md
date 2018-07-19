@@ -1,7 +1,6 @@
 Title: Timeline
 Date: 2018-05-18
-Tags: timeline, MSU, CMSE
-	
+
 The CyberAmbassador project is proposed over a three-year timeline, ideally
 beginning in November, 2017. Key milestones are outlined below:
 
