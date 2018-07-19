@@ -13,6 +13,10 @@ PATH = 'content'
 
 TIMEZONE = 'America/Detroit'
 
+# Following items are often useful when publishing
+DISQUS_SITENAME = "DirkColbry"
+GOOGLE_ANALYTICS = "UA-121560886-1"
+
 DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing

@@ -18,7 +18,8 @@ CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 
-# Following items are often useful when publishing
+# Following items are often useful when publishinu
+DISQUS_SITENAME = "DirkColbry"
+GOOGLE_ANALYTICS = "UA-121560886-1"
 
-#DISQUS_SITENAME = ""
-#GOOGLE_ANALYTICS = ""
+
