@@ -5,9 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Dirk Colbry'
 SITENAME = "CyberAmbassadors"
 SITEURL = '.'
-
 PATH = 'content'
-
 
 #PLUGIN_PATHS=["./plugins"]
 #PLUGINS=['ipynb.markup']
