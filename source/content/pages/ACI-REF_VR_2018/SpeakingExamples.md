@@ -28,18 +28,18 @@ After completing each example rotate the roles in the following order and move o
 ----
 
 # Speaker Example 1 - Hardware Refresh
- - [Notes for CI-Professional (Speaker)](SpeakerEx1_CI.html)
- - [Notes for Actor (Listener)](SpeakerEx1_Actor.html)
- - [Notes for Coach](SpeakerEx1_Coach.html)
+ - [Notes for CI-Professional (Speaker)](speakerex1_ci.html)
+ - [Notes for Actor (Listener)](speakerex1_actor.html)
+ - [Notes for Coach](speakerex1_coach.html)
 
 
 # Speaker Example 2 - Data Center Committee
-- [Notes for CI-Professional (Speaker)](SpeakerEx2_CI.html)
-- [Notes for Actor (Listener)](SpeakerEx2_Actor.html)
-- [Notes for Coach](SpeakerEx2_Coach.html)
+- [Notes for CI-Professional (Speaker)](speakerex2_ci.html)
+- [Notes for Actor (Listener)](speakerex2_actor.html)
+- [Notes for Coach](speakerex2_coach.html)
 
 
 # Speaker Example 3 - Bad News
-- [Notes for CI-Professional (Speaker)](SpeakerEx3_CI.html)
-- [Notes for Actor (Listener)](SpeakerEx3_Actor.html)
-- [Notes for Coach](SpeakerEx3_Coach.html)
+- [Notes for CI-Professional (Speaker)](speakerex3_ci.html)
+- [Notes for Actor (Listener)](speakerex3_actor.html)
+- [Notes for Coach](speakerex3_coach.html)
