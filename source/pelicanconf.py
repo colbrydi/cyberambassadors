@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Dirk Colbry'
 SITENAME = "CyberAmbassadors"
-SITEURL = '.'
+SITEURL = 'https://colbrydi.github.io/cyberambassadors'
 PATH = 'content'
 
 #PLUGIN_PATHS=["./plugins"]
