@@ -2,6 +2,7 @@ Title: Speaking Examples
 Date: 2018-08-06
 
 Now it is our time practice.  You will be split up into groups of three.  We have three exercises your group will read to practice.  In each group there will:
+
 - The **CI-Professional’s** job is to practice the speaker skills we just discussed.
 - The **Actor’s** job is to read the scenario pretend to be the listener on the other side of the conversation.  Have fun with acting and try to help out in the learning experience.
 - The **Couch’s** Job is to watch the interaction between the Speaker and Listener and help give advice.  At the end of each practice the coach will point out both good and bad examples during the interaction
