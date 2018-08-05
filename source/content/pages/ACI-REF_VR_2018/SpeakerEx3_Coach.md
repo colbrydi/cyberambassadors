@@ -1,7 +1,7 @@
-Title: SpeakerEx1_Coach
+Title: SpeakerEx3_Coach
 Date: 2018-08-06
 
-# Coach – Hardware Refresh
+# Coach – Bad News
 As the coach your job is to listen to both the speaker and listener to see if they use the techniques:
 
 - Reducing Jargon
