@@ -41,12 +41,12 @@ DISPLAY_HOME   = True
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True 
+RELATIVE_URLS = True
 
 # Comment following line if you want the default theme
 THEME = 'themes/tuxlite_cmse'
 
-DISPLAY_PAGES_ON_MENU = True
+DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = True
 
 #INDEX_SAVE_AS = 'about.html'
@@ -54,4 +54,4 @@ DISPLAY_CATEGORIES_ON_MENU = True
 #PAGE_URL = 'about2.html'
 
 # Provides menu items, which come before pages / categories
-# MENUITEMS = [('News',SITEURL+'/category/news')]
+MENUITEMS = [('Project Summary','/pages/summary.html'), ('Time Line','/pages/timeline.html'),('Contact','/pages/contact.html')]
