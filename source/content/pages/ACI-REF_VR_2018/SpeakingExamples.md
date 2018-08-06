@@ -21,7 +21,7 @@ You will be split up into groups of three, and rotate through three roles:
 
 - Break out into groups of 3 (if necessary, groups of 4 can have 2 coaches)
 - Pick roles for the first example (CI-Professional, Actor and Coach)
-- Read YOUR ROLE (don’t cheat and look at the other links – than spoils the fun!)
+- Read YOUR ROLE (**don’t cheat and look at the other links – than spoils the fun!**)
     1. Go to: https://tinyurl.com/ACIpractice
     2. Choose the First Breakout link, then the first example, then your role
 - Do the rehearsal exercises
