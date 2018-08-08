@@ -12,3 +12,7 @@ One of the objectives of the CyberAmbassador project is to reach out and work wi
 | [![NRMN](//nrmncan-sites.uchicago.edu/sites/nrmncan.uchicago.edu/files/styles/columnwidth-wider/public/uploads/images/NRMN%20Vert%20w%20Titletag.png?itok=ScMS2gLj)](//nrmnet.net/)  |  Co-Pis, Drs. Dirk and Kathleen Colbry are facilitators for the NRMN which is a nationwide consortium institutions collaborating to provide mentor training with evidence-based mentorship and professional development programming. |
 |   |   |
 | [![The Carpentries](//carpentries.org/assets/img/TheCarpentries.svg)](//carpentries.org/)  |  The Carpentries project comprises communities of Instructors, Trainers, Maintainers, helpers, and supporters who share a mission to teach foundational computational and data science skills to researchers.   |
+|   |   |
+| [![XSEDE](//www.xsede.org/image/image_gallery?uuid=c0ae4cfa-fa0e-4546-8b02-3305bf2a99cc&groupId=10157&t=1369258426990)](//www.xsede.org/)  |  XSEDE is a single virtual system that scientists can use to interactively share computing resources, data and expertise. People around the world use these resources and services — things like supercomputers, collections of data and new tools — to improve our planet.  |
+|   |   |
+| [![ACI-REF](//aciref.org/wp-content/uploads/2015/07/aci-ref.png)](//aciref.org/)  |  Advanced Cyberinfrastructure (ACI) Research and Education Facilitators (ACI-REFs).  |
