@@ -6,4 +6,5 @@ Tags: Presentations, HPC
 
 I had the pleasure of introducing the CyberAmbassador project to the Campus Champions on our Monthly teleconference.  In case you are interested, here is a link to my slides:
 
-- [Slides](../images/20180917-CC-CyberAmbassador-intro)
+- [Slides](./images/20180917-CC-CyberAmbassador-intro.pdf)
+-[Video](https://youtu.be/3ogGWt1fYGA)
