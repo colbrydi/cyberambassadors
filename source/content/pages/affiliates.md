@@ -1,7 +1,7 @@
 Title: Affiliates
 Date: 2018-08-08
 
-One of the objectives of the CyberAmbassador project is to reach out and work with other CI professional Organizations and connect them with Professional Skills training programs. The following is a list of Affiliated organizations and training programs:
+One of the objectives of the CyberAmbassador project is to reach out and work with other CI professional Organizations and connect them with Professional Skills training programs. The following is a list of affiliated organizations and training programs:
 
 ---
 
