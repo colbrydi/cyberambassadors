@@ -20,3 +20,9 @@ Dr. Katy Luchini-Colbry serves as Assistant Dean for Graduate Student Services i
 ![Dr. Julie Rojewski](http://best.msu.edu/wp-content/uploads/2016/03/julie-rojewski.jpg){ width=10%, align=left, hspace=20} Program Evaluator, Dr. Julie Rojewski
 
 Dr. Rojewski is the [Broadening Experiences in Scientific Training (BEST)](//best.msu.edu/) Project Coordinator and has years of evaluation experience for projects funded by the NSF and the NIH.
+
+---
+
+![Astri Briliyanti](./images/Astri_Briliyanti.jpg){ width=10%, align=left, hspace=20} Astri Briliyanti
+
+Astri Briliyanti is a first-year master student in Sustainable Tourism and Protected Area Management Program, Community Sustainability Department, Michigan State University. 
