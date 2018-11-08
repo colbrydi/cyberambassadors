@@ -23,6 +23,6 @@ Dr. Rojewski is the [Broadening Experiences in Scientific Training (BEST)](//bes
 
 ---
 
-![Astri Briliyanti](./images/Astri_Briliyanti.jpg){ width=10%, align=left, hspace=20} Astri Briliyanti
+![Astri Briliyanti](../images/Astri_Briliyanti.jpg){ width=10%, align=left, hspace=20} Astri Briliyanti
 
-Astri Briliyanti is a first-year master student in Sustainable Tourism and Protected Area Management Program, Community Sustainability Department, Michigan State University. 
+Astri Briliyanti is a first-year master student in Sustainable Tourism and Protected Area Management Program, Community Sustainability Department, Michigan State University.
