@@ -20,5 +20,5 @@ One of the objectives of the CyberAmbassador project is to reach out and work wi
 | [![ACI-REF](//aciref.org/wp-content/uploads/2015/07/aci-ref.png){ width=20%, align=right}](//aciref.org/)  Advanced Cyberinfrastructure (ACI) Research and Education Facilitators (ACI-REFs).
 |
 | </br> |
-| [![CarCC.org](../images/CarCC.jpeg){ width=20%, align=right}](//carcc.org/)  Advanced Cyberinfrastructure (ACI) Research and Education Facilitators (ACI-REFs).
+| [![CarCC.org](../images/CarCC.jpeg){ width=20%, align=right}](//carcc.org/)  Advancing Research and Education through a national network of campus research computing infrastructures – The CaRC Consortium. 
 |
