@@ -27,6 +27,8 @@ Dr. Rojewski is the [Broadening Experiences in Scientific Training (BEST)](//bes
 
 Astri Briliyanti is a first-year master student in Sustainable Tourism and Protected Area Management Program, Community Sustainability Department, Michigan State University.
 
+---
+
 ![TJ Nguyen](//colbrydi.github.io/cyberambassadors/images/TJ_Nguyen.jpg){ width=10%, align=left, hspace=20} TJ Nguyen
 
 TJ Nguyen is currently attending Michigan State Univerity, pursuing his Bachelors in Computer Engineering with a minor in Computational Mathematics Science and Engineering (CMSE).
