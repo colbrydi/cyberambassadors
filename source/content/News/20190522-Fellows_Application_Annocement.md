@@ -2,11 +2,9 @@ Title: Now Accepting Application for CyberAmbassadors Fellows Program
 Date: 2019-05-22
 Tags: Workshops, News
 
-![CyberAmbassador Logo](/images/cyber.png){ width=200, align=right, hspace=10}
+![CyberAmbassador Logo](http://colbrydi.github.io/cyberambassadors/images/cyber.png){ width=200, align=right, hspace=10}
 
 The CyberAmbassador program is seeking experienced CyberInfrastructure (CI) professionals to train as workshop facilitators for the newly developed CyberAmbassador Professional Skills training program.
-
-[http://colbrydi.github.io/cyberambassadors](http://colbrydi.github.io/cyberambassadors)
 
 Fellows will be trained to facilitate the CyberAmbassador curriculum (covering communications, teamwork and leadership skills) and will host one or more CyberAmbassador workshops during the 12-month fellowship.
 
