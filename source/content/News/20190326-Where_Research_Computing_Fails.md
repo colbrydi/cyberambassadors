@@ -2,7 +2,7 @@ Title: Understanding Research Technology Support and Where it Fails
 Date: 2019-03-26
 Tags: Presentations
 
-![Image of a Microscope](//colbrydi.github.io/cyberambassadors/images/Microscope.png){ width=200, align=right, hspace=10}
+![Image of a Microscope](//colbrydi.github.io/images/Microscope.png){ width=200, align=right, hspace=10}
 
 Dirk was was invited to give a talk to a newly formed IT Research Support group on MSU's campus.  As the name suggests, the purpose of this group is to find the best ways to help researchers use technology to do their science.  
 
