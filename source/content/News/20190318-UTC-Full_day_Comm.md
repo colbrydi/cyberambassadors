@@ -2,7 +2,7 @@ Title: First Full Day Communication Workshop
 Date: 2019-03-18
 Tags: Presentations
 
-![UTC picture](./images/TN_Facilitators.jpg){ width=300, align=right, hspace=10}
+![UTC picture](//colbrydi.github.io//images/TN_Facilitators.jpg){ width=300, align=right, hspace=10}
 
 We just completed our first full-day communication workshop at the University of Tennessee. There was a small hick-up with flight delays but once things got rolling the workshop turned out great.  This is the first time we have integrated the three separate communication modules:
 

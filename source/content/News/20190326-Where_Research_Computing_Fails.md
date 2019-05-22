@@ -12,4 +12,4 @@ Then the discussion moved to campus and national efforts to solve the "human pro
 
 A link to the slides can be found here:
 
-[Link to pdf of slides](//colbrydi.github.io/images/www.dir20190326_IT_Research_support_Talk.pdf)
+[Link to pdf of slides](//colbrydi.github.io/images/20190326_IT_Research_support_Talk.pdf)

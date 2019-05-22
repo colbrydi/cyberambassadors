@@ -15,7 +15,7 @@ teamwork, and leadership, with the goal of developing "CyberAmbassadors" who are
 multidisciplinary, computationally-intensive research at their home institutions. The proposed project has
 the following objectives:
 
-1. ** Develop Curriculum** that focuses on professional skills (communications,
+1. **Develop Curriculum** that focuses on professional skills (communications,
 teamwork, leadership) within the context of large scale, multi-disciplinary computational research.
 2. **Pilot, Evaluate and Revise** the curriculum. Pilot trainings will be held at Michigan State University
 (MSU), at appropriate CI conferences, and at other institutions and laboratories. During the pilot process,
