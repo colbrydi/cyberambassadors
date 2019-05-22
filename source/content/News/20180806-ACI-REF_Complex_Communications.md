@@ -5,7 +5,7 @@ Date: 2018-08-06
 
 We are excited to present some of our newest CyberAmbassador Curriculum developed specifically for the  [2018 ACI-REF Virtual residency](http://www.oscer.ou.edu/acirefvirtres2018.php). We have been given a 90 minute slot to introduce the topic of communicating complex topics.  Below is a link to our slides and links to the practice examples:
 
-- [Link to the Presentation Slides](//colbrydi.github.io//images/2018-ACIREF_VR.pdf)
+- [Link to the Presentation Slides](//colbrydi.github.io/cyberambassadors/images/2018-ACIREF_VR.pdf)
 - [Link to the Practice Examples](//tinyurl.com/ACI-Practice)
 - [Link to video recording of event](https://www.youtube.com/watch?v=C5hOKRf-xBE)
 

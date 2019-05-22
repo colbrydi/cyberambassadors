@@ -2,7 +2,7 @@ Title: First Contact (Newest Module)
 Date: 2019-03-01
 Tags: Presentations
 
-![Alien](//colbrydi.github.io//images/alien.png){ width=200, align=right, hspace=10}
+![Alien](//colbrydi.github.io/cyberambassadors/images/alien.png){ width=200, align=right, hspace=10}
 
 We just finished developing and presenting our latest module called "first contact".  This module looks at new conversations and how you can prepare yourself for unexpected opportunities to build new relationships.  
 

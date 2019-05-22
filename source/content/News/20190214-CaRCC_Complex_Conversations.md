@@ -2,7 +2,7 @@ Title: CaRCC Research Facilitation Monthly Meeting - Complex Convsersations
 Date: 2019-02-14
 Tags: Presentations, CaRCC
 
-![CaRCC Logo](//colbrydi.github.io/images/CarCC.jpeg){ width=60%, align=right, hspace=10}
+![CaRCC Logo](//colbrydi.github.io/cyberambassadors/images/CarCC.jpeg){ width=60%, align=right, hspace=10}
 
 We just got finished presenting the Complex Conversations module to the monthly research facing meeting for the Campus Research Computing Consortium ([CaRCC](https://carcc.org/)) . This session conducted completely online using [Zoom](https://zoom.us/).
 
