@@ -2,7 +2,7 @@ Title: Poster Presentation at the SciTS 2019 Conference -- The CyberAmbassador T
 Date: 2019-05-21
 Tags: Presentations
 
-![Image Astri presenting next to her poster](http://colbrydi.github.io/cyberambassadors/images/Scite2019.jpeg){ width=200, align=right, hspace=10}
+![Image Astri presenting next to her poster](http://colbrydi.github.io/cyberambassadors/images/Scite2019.jpeg){ width=50%, align=right, hspace=10}
 
 We are so happy to participate and present our work at the [10th Annual International Science of Team Science Conference (SciTS)](https://www.inscits.org/) 2019 in Lansing, Michigan. In this poster, we introduce our curriculum and offer preliminary result from the ongoing evaluation of our program. During the first year, we have focused on curriculum development and explored different training modalities: face-to-face vs. online; short vs. longer sessions. Using a Kirkpatrick model of evaluation, we focused on participants’ reaction (satisfaction) and learning. Our initial result shows that participants were highly satisfied with our “Mastering Complex Conversation,” “Communicating Problems,” and “First contact” curriculum. They also reported to learn more about communication skills.
 
