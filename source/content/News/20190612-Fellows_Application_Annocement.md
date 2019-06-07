@@ -1,5 +1,5 @@
 Title: Now Accepting Application for CyberAmbassadors Fellows Program
-Date: 2019-05-22
+Date: 2019-06-12
 Tags: Workshops, News
 
 ![CyberAmbassador Logo](http://colbrydi.github.io/cyberambassadors/images/cyber.png){ width=200, align=right, hspace=10}
