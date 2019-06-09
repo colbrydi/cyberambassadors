@@ -16,7 +16,7 @@ This has been the third time CyberAmbassadors program has presented at the annua
 
 **Thursday 9:00-10:15am** - [Problem solving in a group](https://docs.google.com/presentation/d/1oqLJVA3Jp_m94TArL6sy-0adJScl0loLL-FPlE_NXMA/edit?usp=sharing)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/csZhksxrWZ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Thank you Henry Neeman and everyone else on the planning team. It was a wonderful week.
 
