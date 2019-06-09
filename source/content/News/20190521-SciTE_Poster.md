@@ -1,6 +1,7 @@
 Title: Poster Presentation at the SciTS 2019 Conference -- The CyberAmbassador Training Program
 Date: 2019-05-21
 Tags: Presentations
+Authors: Astri Briliyanti
 
 ![Image Astri presenting next to her poster](http://colbrydi.github.io/cyberambassadors/images/Scite2019.jpeg){ width=50%, align=right, hspace=10}
 
