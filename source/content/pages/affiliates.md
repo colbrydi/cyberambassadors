@@ -17,7 +17,7 @@ One of the objectives of the CyberAmbassador project is to reach out and work wi
 | </br> |
 | [![XSEDE](//www.xsede.org/image/image_gallery?uuid=c0ae4cfa-fa0e-4546-8b02-3305bf2a99cc&groupId=10157&t=1369258426990){ width=20%, align=right}](//www.xsede.org/)  XSEDE is a single virtual system that scientists can use to interactively share computing resources, data and expertise. People around the world use these resources and services — things like supercomputers, collections of data and new tools — to improve our planet. |
 | </br> |
-| [![ACI-REF](//aciref.org/wp-content/uploads/2015/07/aci-ref.png){ width=20% align=right}](//aciref.org/)  Advanced Cyberinfrastructure (ACI) Research and Education Facilitators (ACI-REFs).
+| [![ACI-REF](//colbrydi.github.io/cyberambassadors/images/aci-ref.png){ width=20% align=right}](//aciref.org/)  Advanced Cyberinfrastructure (ACI) Research and Education Facilitators (ACI-REFs).
 |
 | </br> |
 | [![CarCC.org](../images/CarCC.jpeg){ width=20% align=right}](//carcc.org/)  Advancing Research and Education through a national network of campus research computing infrastructures – The CaRC Consortium.
