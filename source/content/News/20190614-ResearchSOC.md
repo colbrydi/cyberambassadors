@@ -3,7 +3,7 @@ Date: 2019-06-14
 Author: Cyd Burrows-Schilling
 Tags: Workshops, News
 
-![RSOC Logo](http://colbrydi.github.io/cyberambassadors/images/RSOC.png){ width=200, align=right, hspace=10}
+![RSOC Logo](http://colbrydi.github.io/cyberambassadors/images/RSOC.png)
 
 Having been exposed to the NSF Cyber Ambassador project through participation in several research facilitation-related national organizations (CaRCC, ACI-REF VR, Campus Champions), I’ve had the opportunity to not only learn about the training content, but also to experience several of the various training modules and activities offered. Last December a significant portion of my time became dedicated to the NSF project, [Research Security Operations Center](https://researchsoc.iu.edu/) (ResearchSOC), a collaborative effort of Indiana University (Principal Investigator (PI), Von Welch), Duke University, Pittsburgh Supercomputing Center, and University of California San Diego, and it struck me that the Cyber Ambassador project materials could greatly contribute to our efforts.
 
