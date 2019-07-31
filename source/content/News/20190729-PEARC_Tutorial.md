@@ -3,7 +3,7 @@ Date: 2019-07-29
 Author: Dirk Colbry
 Tags: Workshops, News
 
-![Picgture of PEARC Tutorial Facilitators](http://colbrydi.github.io/cyberambassadors/images/20190729_PEARC_Tutorial.jpg)
+![Picture of PEARC Tutorial Facilitators](http://colbrydi.github.io/cyberambassadors/images/20190729_PEARC_Tutorial.jpg)
 
 We held an all day CyberAmbassadors workshop at PEARC19 in Chicago.  Although we did put together a slide deck, when we got to PEARC and scouted out our room we realized that we missed the fact that there was no projector.
 
