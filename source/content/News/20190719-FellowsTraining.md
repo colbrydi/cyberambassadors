@@ -3,7 +3,7 @@ Date: 2019-07-18
 Author: Lilly Glosser
 Tags: Workshops, News
 
-![Group Picture of Inaugural Fellows](http://colbrydi.github.io/cyberambassadors/images/Fellows_Group.png)
+![Group Picture of Inaugural Fellows](//colbrydi.github.io/cyberambassadors/images/Fellows_Group.png)
 
 The CyberAmbassadors program hosted 32 volunteers from across the country at Michigan State University (MSU) on July 18-19 for the inaugural CyberAmbassadors Fellows Program. The program trains facilitators on how to conduct professional skills workshops using the newly developed CyberAmbassadors training curriculum. Over the next year, the CyberAmbassador Fellows will organize, host and facilitate professional skills training in their own communities.  
 
