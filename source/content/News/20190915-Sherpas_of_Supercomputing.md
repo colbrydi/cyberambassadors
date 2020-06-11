@@ -1,5 +1,6 @@
 Title: Sherpas of Supercomputing
 Date: 2019-09-15
+Tags:News
 
 
 ![Cover picture of the September 2019 ASEE PRISM Magazine Featuring the Sherpas of Supercomputing article](http://www.asee-prism.org/wp-content/uploads/2019/10/Sherpas-of-Supercomputing.jpg)
