@@ -1,0 +1,8 @@
+Title: Great Plains Network On-line Trainings
+Date: 2020-05-19
+
+![Grate Plains Network Logo](//globalnoc.iu.edu/wp-content/uploads/2017/06/GPN-600x400-c-default.png)
+
+The Great Plains Network (GPN), a non-profit consortium aggregating networks through GigaPoP connections while advocating collaboration and cyberinfrastructure research on behalf of universities and community innovators across the Midwest and Great Plains, hosted a three day CyberAmbassador workshop at the end of May 2020.  Although initially scheduled as an in-person workshop during the GPN annual meeting, the event moved to an online format and was adjusted from a single day workshop to 3 modules taught for 90 minutes over 3 days. Since we changed the format of the workshop, we allowed participants to sign up for any session.  Each day, we included an introduction to the CyberAmbassador program and covered the following modules:  Teaming Up: Effective Group and Meeting Management, First Contact: Communicating with Purpose, and It’s Complicated: Communicating about Complexity.        
+
+We had a wonderful group of CyberAmbassador facilitators from around the country that lead the trainings: Dr. Joy Pine-Thomas, an Instructional Design Specialist in the School of Nursing from the University of North Carolina Greensboro; Alan Paul, President of Giant Angstrom Partners; Dr. John Turner, an Assistant Professor at the University of North Texas in the College of Engineering; Kiran Mhatre, a Senior DevOps Engineer in Harvard University’s Central IT department; Annamaria Szakonyi, Research Computing Architect and PhD student at Saint Louis University; and Dan Voss, Director of Research Computing at Beaumont Health.
