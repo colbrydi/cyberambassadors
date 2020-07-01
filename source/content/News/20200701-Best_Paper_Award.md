@@ -2,7 +2,7 @@ Title: PEARC 2020 Best Paper Award
 Date: 2020-07-01
 Tags: News
 
-![Trophy Clip Art](http://www.publicdomainfiles.com/show_file.php?id=13929502217552){ width=100, align=right, hspace=10}
+![Trophy Clip Art](//colbrydi.github.io/cyberambassadors/images/Trophy.png){ width=100, align=right, hspace=10}
 
 We are pleased to share that our most recent paper entitled **_"CyberAmbassadors: Results from Pilot Testing a New Professional Skills Curriculum" By Astri Briliyanti, Julie Wilson Rojewski, Katy Luchini-Colbry, and Dirk Colbry_** was given the best paper award in the PEARC 2020 “People involved in research computing – workforce development, diversity, and professionalization” Track​.
 
