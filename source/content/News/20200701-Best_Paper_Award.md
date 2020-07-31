@@ -9,3 +9,5 @@ We are pleased to share that our most recent paper entitled **_"CyberAmbassadors
 > The award winners were selected by independent juries, separate ones for each conference track from candidates that were most highly-rated in the conference’s peer review process. The juries deemed the winning manuscripts to be comprehensively well rounded, reflective of deep understanding of the subject areas discussed, and of very high quality overall.
 
 [Click here for information about PEARC and the other award winners](https://pearc.acm.org/pearc20/awards/)
+
+[A link to the slides can be found here](https://docs.google.com/presentation/d/1kNtmSjMErnVU4PnmgVyZucmP12yWZW4cFfGCp2F07R0/edit?usp=sharing)
